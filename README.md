@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of cleverloginname/flarum-ext-autoimage-autovideo.** Not for installation: use [Packagist](https://packagist.org/packages/cleverloginname/flarum-ext-autoimage-autovideo) or the [upstream repository](https://github.com/CleverLoginName/flarum-ext-autoimage-autovideo).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/cleverloginname-flarum-ext-autoimage-autovideo/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/cleverloginname-flarum-ext-autoimage-autovideo/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2019-01-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/cleverloginname-flarum-ext-autoimage-autovideo/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/cleverloginname-flarum-ext-autoimage-autovideo.json](https://github.com/flarchive/archive-index/blob/main/packages/cleverloginname-flarum-ext-autoimage-autovideo.json)
 
